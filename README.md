@@ -27,8 +27,8 @@ O conjunto de dados utilizado neste projeto pode ser encontrado no seguinte link
 - credit_risk_dataset.csv: Dados brutos obtidos no kaggle.
 - analise_risco_credito.ipynb: Arquivo do Jupyter Notebook contendo nosso projeto completo.
 
-## Author
-Julio Cesar Yamashita Martins - Developer and Data Scientist
+## Autor
+Julio Cesar Yamashita Martins
 
 ## E-mail
 yamashitajulio@gmail.com
