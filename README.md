@@ -26,6 +26,7 @@ O conjunto de dados utilizado neste projeto pode ser encontrado no seguinte link
 - visualizacoes: Gráficos gerados durante o projeto.
 - credit_risk_dataset.csv: Dados brutos obtidos no kaggle.
 - analise_risco_credito.ipynb: Arquivo do Jupyter Notebook contendo nosso projeto completo.
+- analise_risco_credito_extra.ipynb: Arquivo do Jupyter Notebook contendo nosso projeto completo com algumas técnica diferentes (WoE no lugar de One-Hot-Encoding e utilização de K-Fold para validação).
 
 ## Autor
 Julio Cesar Yamashita Martins
