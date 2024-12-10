@@ -30,6 +30,3 @@ O conjunto de dados utilizado neste projeto pode ser encontrado no seguinte link
 
 ## Autor
 Julio Cesar Yamashita Martins
-
-## E-mail
-yamashitajulio@gmail.com
