@@ -17,7 +17,7 @@ O conjunto de dados utilizado neste projeto pode ser encontrado no seguinte link
 # Como Usar
 - Copie o repositório para sua máquina local.
 - Certifique-se de que os dados brutos estejam localizados no mesmo diretório que o notebook.
-- Instale os pacotes necessários usando o comando fornecido.
+- Instale os pacotes necessários.
 - Execute o Jupyter Notebook ou os scripts Python nos respectivos capítulos para executar o código.
 
 # Repositórios
