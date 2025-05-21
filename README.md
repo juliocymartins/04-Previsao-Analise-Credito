@@ -30,4 +30,4 @@ O conjunto de dados utilizado neste projeto pode ser encontrado no seguinte link
 - Apresentação_Analise_Credito.pptx: Arquivo contendo uma apresentação feita no Power Point explicando o projeto.
 
 ## Autor
-Julio Cesar Yamashita Martins
+Julio Martins
